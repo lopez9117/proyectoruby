@@ -1,0 +1,12 @@
+
+etiqueta <b> es negrita
+
+<i> cursiva
+<em> enfasis
+<small> letras chiquitas
+<strong> importante a nivel de semantica
+<br> salto de linea o enter
+<hr/> coloca una linea como una raya
+<ol> Lista ordenada
+<ul> lista desordenada
+<a href="" target="_blank"> enlace a otra pagina</a>
